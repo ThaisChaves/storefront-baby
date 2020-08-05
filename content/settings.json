@@ -1,22 +1,23 @@
 {
-  "store_id": 1117,
-  "name": "storefront-baby",
   "domain": "storefront-baby.netlify.app",
-  "short_name": "storefront-baby",
-  "description": ".",
-  "primary_color": "#333333",
-  "secondary_color": "#777777",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ff686b",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "niche-baby"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/tudy-baby.png",
+  "name": "storefront-baby",
+  "short_name": "storefront-baby",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/tudy-baby-2-.png",
+  "country_code": "BR",
+  "secondary_color": "#87e6ed",
+  "icon": "/img/uploads/tudy-baby-2-.png",
+  "store_id": 1117,
+  "description": "Tudo de Bebê! Aqui sua compra vale a pena! Entrega mais rápida do Brasil! Frete Grátis a partir de R$ 99,90.",
+  "large_icon": "/img/uploads/tudy-baby-2-.png"
 }
