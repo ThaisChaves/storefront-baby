@@ -7,18 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/1.png",
-          "link": "/Menino",
-          "alt": "",
-          "start": "",
-          "end": ""
-        },
-        {
           "img": "/img/uploads/2.png",
           "alt": "",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/3.png"
+        },
+        {
+          "img": "/img/uploads/3.png",
+          "link": "/Menino",
+          "alt": "",
+          "start": "",
+          "end": ""
         }
       ]
     },
