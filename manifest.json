@@ -1,27 +1,27 @@
 {
   "icons": [
     {
-      "src": "/icon_512x512.3b8328f39ac8342f2dc3fffbfbe7568d.png",
+      "src": "/icon_512x512.447f2ca3601993ddc1970886a74a3644.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icon_384x384.d9d713c3b4ed1e4ab03635e405ada82a.png",
+      "src": "/icon_384x384.314ae5e45e980e5526ec267c094a8e6a.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/icon_192x192.e4bf31e7750c2dc702a6fd0e9e11c8c8.png",
+      "src": "/icon_192x192.dc43df409f842e7a172281359b00cd3f.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon_128x128.6e641a2c14993200fca2da2785ea69eb.png",
+      "src": "/icon_128x128.c14b754c4468d452ba66e30eb84d0bf6.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/icon_96x96.c32f49a92a54277b20ad3781cc3359a6.png",
+      "src": "/icon_96x96.85fc1a1972d923086f0c6dea7e2d1921.png",
       "sizes": "96x96",
       "type": "image/png"
     }
