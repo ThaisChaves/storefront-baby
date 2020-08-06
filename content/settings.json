@@ -1,7 +1,7 @@
 {
   "domain": "storefront-baby.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff686b",
+  "primary_color": "#87e6ed",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-baby"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/tudy-baby-3-.png",
   "country_code": "BR",
-  "secondary_color": "#87e6ed",
+  "secondary_color": "#ff686b",
   "icon": "/img/uploads/tudy-baby-3-.png",
   "store_id": 1117,
   "description": "Tudo de Bebê! Aqui sua compra vale a pena! Entrega mais rápida do Brasil! Frete Grátis a partir de R$ 99,90.",
