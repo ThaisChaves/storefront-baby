@@ -40,21 +40,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.png"
-        },
-        {
           "img": "/img/uploads/8.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/9.png"
         },
         {
-          "img": "/img/uploads/5.png"
+          "img": "/img/uploads/10.png"
         }
       ]
     },
@@ -67,8 +56,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/5.png"
+        },
+        {
           "img": "/img/uploads/7.png",
           "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/1.png"
         }
       ]
     }
