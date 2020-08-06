@@ -11,7 +11,7 @@
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/3.png"
+          "mobile_img": "/img/uploads/5.png"
         },
         {
           "img": "/img/uploads/3.png",
@@ -19,6 +19,16 @@
           "alt": "",
           "start": "",
           "end": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4.png"
+        },
+        {
+          "start": "2020-08-06T09:29:32.268Z",
+          "end": "2020-08-06T09:29:32.349Z",
+          "img": "/img/uploads/6.png"
         }
       ]
     },
