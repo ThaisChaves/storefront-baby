@@ -31,9 +31,9 @@
           "img": "/img/uploads/4.png"
         },
         {
-          "start": "2020-08-06T09:29:32.268Z",
-          "end": "2020-08-06T09:29:32.349Z",
-          "img": "/img/uploads/6.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8.png"
         }
       ]
     },
@@ -48,7 +48,7 @@
           "img": "/img/uploads/1.png"
         },
         {
-          "img": "/img/uploads/4.png"
+          "img": "/img/uploads/8.png"
         }
       ]
     },
@@ -59,7 +59,7 @@
           "img": "/img/uploads/9.png"
         },
         {
-          "img": "/img/uploads/6.png"
+          "img": "/img/uploads/5.png"
         }
       ]
     },
@@ -72,8 +72,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/8.png",
-          "mobile_img": "/img/uploads/7.png"
+          "img": "/img/uploads/7.png",
+          "mobile_img": ""
         }
       ]
     }
