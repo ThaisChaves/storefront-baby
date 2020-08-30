@@ -1,7 +1,7 @@
 {
   "domain": "storefront-baby.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#87e6ed",
+  "primary_color": "#00a2a9",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-baby"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#ff686b",
+  "secondary_color": "#ff5757",
   "icon": "/img/uploads/favicon.png",
   "store_id": 1117,
   "description": "Tema Demo Storefront-baby.\nEssa loja é demonstrativa. Os produtos e valores são fictícios.",
