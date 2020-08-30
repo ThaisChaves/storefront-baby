@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "storefront-baby1",
+  "name": "storefront-baby",
   "short_name": "storefront-baby",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "Tudo de Bebê! Aqui sua compra vale a pena!! Entrega mais rápida do Brasil! Frete Grátis a partir de R$ 99,90!",
+  "description": "Tema Demo Storefront-baby.\nEssa loja é demonstrativa. Os produtos e valores são fictícios.",
   "background_color": "#ffffff",
   "theme_color": "#87e6ed"
 }
