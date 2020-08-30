@@ -37,12 +37,8 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/9.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/5.png"
     },
     {
       "type": "collection-shelf",
@@ -64,8 +60,12 @@
       "title": "O que os outros estão vendo!!! "
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/5.png"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/9.png"
+        }
+      ]
     },
     {
       "type": "banners-grid",
