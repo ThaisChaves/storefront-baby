@@ -82,6 +82,14 @@
           "img": "/img/uploads/5.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/favicon.png"
+        }
+      ]
     }
   ]
 }
