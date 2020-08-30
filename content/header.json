@@ -18,9 +18,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/meninas?Meninas",
+      "/meninos?Meninos",
+      "/bebes?Bebês",
+      "/bolsa-maternidade?Bolsa Maternidade",
+      "/inverno?Coleção inverno",
+      "/outlet?Outlet"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
