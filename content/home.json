@@ -7,7 +7,7 @@
       "autoplay": 6000,
       "slides": [
         {
-          "img": "/img/uploads/2.png",
+          "img": "/img/uploads/7.png",
           "alt": "",
           "start": "",
           "end": "",
@@ -16,10 +16,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/9.png"
+          "img": "/img/uploads/8.png"
         },
         {
-          "img": "/img/uploads/5.png",
+          "img": "/img/uploads/4.png",
           "link": "",
           "alt": "",
           "start": "",
@@ -28,7 +28,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/8.png"
+          "img": "/img/uploads/2.png"
         }
       ]
     },
@@ -40,10 +40,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/8.png"
-        },
-        {
-          "img": "/img/uploads/10.png"
+          "img": "/img/uploads/9.png"
         }
       ]
     },
@@ -57,14 +54,27 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/5.png"
-        },
-        {
-          "img": "/img/uploads/7.png",
-          "mobile_img": ""
-        },
-        {
           "img": "/img/uploads/1.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "title": "O que os outros estão vendo!!! "
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/5.png"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/6.png"
+        },
+        {
+          "img": "/img/uploads/5.png"
         }
       ]
     }
