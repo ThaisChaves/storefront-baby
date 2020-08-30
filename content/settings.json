@@ -7,8 +7,8 @@
     "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/tudybaby3.png",
-  "name": "storefront-baby1",
+  "logo": "/img/uploads/storefront-baby.png",
+  "name": "storefront-baby",
   "short_name": "storefront-baby",
   "lang": "pt_br",
   "currency": "BRL",
@@ -18,6 +18,6 @@
   "secondary_color": "#ff686b",
   "icon": "/img/uploads/tudy-baby-3-.png",
   "store_id": 1117,
-  "description": "Tudo de Bebê! Aqui sua compra vale a pena!! Entrega mais rápida do Brasil! Frete Grátis a partir de R$ 99,90!",
+  "description": "Tema Demo Storefront-baby.\nEssa loja é demonstrativa. Os produtos e valores são fictícios.",
   "large_icon": "/img/uploads/tudy-baby-3-.png"
 }
