@@ -7,6 +7,11 @@
       "autoplay": 6000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2.png"
+        },
+        {
           "img": "/img/uploads/7.png",
           "alt": "",
           "start": "",
@@ -24,11 +29,6 @@
           "alt": "",
           "start": "",
           "end": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2.png"
         }
       ]
     },
